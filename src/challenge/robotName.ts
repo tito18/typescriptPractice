@@ -1,4 +1,4 @@
-export default class robotName {
+export default class RobotName {
     _name = 'RX002';
     _olderNames: string[] = [];
 

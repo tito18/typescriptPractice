@@ -1,4 +1,4 @@
-export default class resitorColors {
+export default class ResitorColors {
 
     private getNumber(color: string) {
         interface Colors {
